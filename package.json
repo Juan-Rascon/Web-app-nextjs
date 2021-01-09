@@ -1,0 +1,33 @@
+{
+  "name": "nextjs",
+  "version": "5.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "^4.11.1",
+    "@material-ui/icons": "^4.11.2",
+    "bcryptjs": "^2.4.3",
+    "clsx": "latest",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mariadb": "^2.5.2",
+    "next": "latest",
+    "next-connect": "^0.9.1",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sequelize": "^6.3.5"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.2.5"
+  }
+}
