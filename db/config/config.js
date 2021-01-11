@@ -1,5 +1,7 @@
 "use strict";
 
+console.log("db/config");
+
 if (process.env.NODE_ENV !== 'production'){
   require('dotenv').config();
 }

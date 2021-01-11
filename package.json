@@ -22,7 +22,7 @@
     "sequelize": "^6.3.5"
   },
   "scripts": {
-    "dev": "next",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
