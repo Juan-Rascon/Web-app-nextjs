@@ -6,7 +6,6 @@ import { CacheProvider } from '@emotion/react';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import createCache from '@emotion/cache';
 import theme from '../src/theme';
-import BottomNav from '../src/BottomNav';
 import AppBar from '../src/AppBar';
 import Grid from '@material-ui/core/Grid';
 
@@ -27,6 +26,7 @@ export default function MyApp(props) {
     <CacheProvider value={cache}>
       <Head>
         <title>The Association</title>
+        <meta name="theme-color" content={theme.palette.primary.main} />
         <meta name="viewport"  content="minimum-scale=1, initial-scale=1, width=device-width" />
       </Head>
       <ThemeProvider theme={theme}>
@@ -35,7 +35,6 @@ export default function MyApp(props) {
         <Grid>
         <AppBar></AppBar>
         <Component {...pageProps} />
-        <BottomNav/>
         </Grid>
       </ThemeProvider>
     </CacheProvider>

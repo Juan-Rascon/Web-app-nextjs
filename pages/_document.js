@@ -13,7 +13,8 @@ export default class MyDocument extends Document {
       <Html lang="en">
         <Head>
           {/* PWA primary color */}
-          <meta name="theme-color" content={theme.palette.primary.main} />
+        
+          <script src="https://www.paypal.com/sdk/js?client-id=AYfHJYZqJaGTgX5J5xTsDINbUDIrYXWjY01TYJiMulzFJs47uR7Wt-CNS63oN0xXbzpvX7L7TE_vdHAy&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
 
           <link
             rel="stylesheet"

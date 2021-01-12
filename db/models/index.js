@@ -1,6 +1,5 @@
 'use strict';
 
-
 console.log("db/models/index.js");
 
 const fs = require('fs');
