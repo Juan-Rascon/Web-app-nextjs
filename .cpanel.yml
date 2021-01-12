@@ -1,0 +1,6 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home/gzagewlc/staging.uclagammas.com/
+ - export GITREPO=/home/uclaavir/nextjs_app
+ - /bin/cp -RT $GITREPO $DEPLOYPATH
