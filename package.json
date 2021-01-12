@@ -1,6 +1,7 @@
 {
   "name": "nextjs",
   "version": "5.0.0",
+  "homepage": "https://staging.uclagammas.com",
   "private": true,
   "dependencies": {
     "@emotion/cache": "latest",
