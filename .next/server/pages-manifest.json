@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/gammas/[id]": "pages/api/gammas/[id].js",
+  "/api/gammas": "pages/api/gammas.js",
+  "/api/pledgeClasses/[class]": "pages/api/pledgeClasses/[class].js",
+  "/api/pledgeClasses": "pages/api/pledgeClasses.js",
+  "/events": "pages/events.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/pay": "pages/pay.html",
+  "/register": "pages/register.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}

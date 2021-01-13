@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function getAllpledgeClasses(req, res) {\n  res.json({\n    CurrentPage: \"Pledge Classes\",\n    method: req.method\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[9],{UGbB:function(n,u,t){"use strict";function _(){return null}t.r(u),t.d(u,"default",(function(){return _}))},f8ys:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/events",function(){return t("UGbB")}])}},[["f8ys",0]]]);

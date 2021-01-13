@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function Index() {\n  return null;\n}","map":{"version":3,"sources":["C:/Users/jrascon/My_Projects/nextjs/pages/events.js"],"names":["Index"],"mappings":"AAEA,eAAe,SAASA,KAAT,GAAiB;AAC9B,SAAO,IAAP;AACD","sourcesContent":["\n\nexport default function Index() {\n  return null\n}\n"]},"metadata":{},"sourceType":"module"}
